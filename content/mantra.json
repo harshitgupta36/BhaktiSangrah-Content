@@ -1,0 +1,155 @@
+{
+    "version": 1,
+    "items": [
+        {
+            "id": "om_namashivaya",
+            "title": "Om Namah Shivaya",
+            "subtitle": "ॐ नमः शिवाय",
+            "symbol": "🔱",
+            "order": 1,
+            "language": "hi",
+            "isFeatured": true,
+            "content": "<h2>ॐ नमः शिवाय</h2><p><strong>ॐ नमः शिवाय</strong></p><p>यह पंचाक्षरी मंत्र भगवान शिव का अत्यंत पवित्र मंत्र है। इसका नियमित जप मानसिक शांति, आत्मबल और मोक्ष की ओर ले जाता है।</p>"
+        },
+        {
+            "id": "gayatri_mantra",
+            "title": "Gayatri Mantra",
+            "subtitle": "गायत्री मंत्र",
+            "symbol": "🌞",
+            "order": 2,
+            "language": "hi",
+            "isFeatured": true,
+            "content": "<h2>गायत्री मंत्र</h2><p><strong>ॐ भूर्भुवः स्वः।<br>तत्सवितुर्वरेण्यं।<br>भर्गो देवस्य धीमहि।<br>धियो यो नः प्रचोदयात्॥</strong></p><p>यह मंत्र बुद्धि, ज्ञान और आत्मिक प्रकाश के लिए जपा जाता है।</p>"
+        },
+        {
+            "id": "hare_krishna",
+            "title": "Hare Krishna Mantra",
+            "subtitle": "हरे कृष्ण महामंत्र",
+            "symbol": "🕉️",
+            "order": 3,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>हरे कृष्ण महामंत्र</h2><p><strong>हरे कृष्ण हरे कृष्ण।<br>कृष्ण कृष्ण हरे हरे।<br>हरे राम हरे राम।<br>राम राम हरे हरे॥</strong></p><p>यह महामंत्र भक्ति, प्रेम और मन की शुद्धि के लिए जपा जाता है।</p>"
+        },
+        {
+            "id": "om_namo_narayanaya",
+            "title": "Om Namo Narayanaya",
+            "subtitle": "ॐ नमो नारायणाय",
+            "symbol": "🔱",
+            "order": 4,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>ॐ नमो नारायणाय</h2><p><strong>ॐ नमो नारायणाय</strong></p><p>यह मंत्र भगवान विष्णु को समर्पित है और शांति व संरक्षण प्रदान करता है।</p>"
+        },
+        {
+            "id": "shanti_mantra",
+            "title": "Shanti Mantra",
+            "subtitle": "शांति मंत्र",
+            "symbol": "☮️",
+            "order": 5,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>शांति मंत्र</h2><p><strong>ॐ सर्वे भवन्तु सुखिनः।<br>सर्वे सन्तु निरामयाः।<br>सर्वे भद्राणि पश्यन्तु।<br>मा कश्चिद् दुःखभाग्भवेत्॥</strong></p><p>यह मंत्र विश्व शांति और सभी के कल्याण की कामना के लिए है।</p>"
+        },
+        {
+            "id": "mahamrityunjaya",
+            "title": "Maha Mrityunjaya Mantra",
+            "subtitle": "महामृत्युंजय मंत्र",
+            "symbol": "🔱",
+            "order": 5,
+            "language": "hi",
+            "isFeatured": true,
+            "content": ""
+        },
+        {
+            "id": "ganesh_mantra",
+            "title": "Ganesh Mantra",
+            "subtitle": "ॐ गं गणपतये नमः",
+            "symbol": "🐘",
+            "order": 7,
+            "language": "hi",
+            "isFeatured": true,
+            "content": ""
+        },
+        {
+            "id": "durga_mantra",
+            "title": "Durga Mantra",
+            "subtitle": "ॐ दुं दुर्गायै नमः",
+            "symbol": "🦁",
+            "order": 8,
+            "language": "hi",
+            "isFeatured": false,
+            "content": ""
+        },
+        {
+            "id": "lakshmi_mantra",
+            "title": "Lakshmi Mantra",
+            "subtitle": "ॐ श्रीं महालक्ष्म्यै नमः",
+            "symbol": "💰",
+            "order": 9,
+            "language": "hi",
+            "isFeatured": true,
+            "content": ""
+        },
+        {
+            "id": "saraswati_mantra",
+            "title": "Saraswati Mantra",
+            "subtitle": "ॐ ऐं सरस्वत्यै नमः",
+            "symbol": "📚",
+            "order": 10,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>सरस्वती मंत्र</h2><p><strong>या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता ।<br>या वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ॥<br>या ब्रह्माच्युतशंकरप्रभृतिभिर्देवैः सदा वन्दिता ।<br>सा मां पातु सरस्वती भगवती निःशेषजाड्यापहा ॥</strong></p><p>यह मंत्र विद्या, बुद्धि, स्मरण शक्ति और विवेक की देवी माँ सरस्वती को समर्पित है।नियमित जप से ज्ञान, एकाग्रता और रचनात्मकता में वृद्धि होती है।</p>"
+        },
+        {
+            "id": "ram_mantra",
+            "title": "Ram Mantra",
+            "subtitle": "ॐ श्री रामाय नमः",
+            "symbol": "🏹",
+            "order": 11,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>राम मंत्र</h2><p><strong>ॐ श्री रामाय नमः</strong></p><p><strong>श्री राम जय राम जय जय राम</strong></p><p>यह मंत्र मर्यादा पुरुषोत्तम भगवान श्रीराम को समर्पित है।इसका जप मन को शांति, धैर्य, साहस और धर्म के मार्ग पर चलने की प्रेरणा देता है।नियमित राम नाम स्मरण से भय, दुःख और मानसिक अशांति दूर होती है।</p>"
+        },
+        {
+            "id": "krishna_mantra",
+            "title": "Krishna Mantra",
+            "subtitle": "ॐ नमो भगवते वासुदेवाय",
+            "symbol": "🪈",
+            "order": 12,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>कृष्ण मंत्र</h2><p><strong>ॐ नमो भगवते वासुदेवाय</strong></p><p>यह मंत्र भगवान श्रीकृष्ण को समर्पित है।इसका जप भक्ति, प्रेम, करुणा और आत्मिक उन्नति प्रदान करता है।नियमित जप से मन निर्मल होता है और जीवन में सकारात्मक ऊर्जा का संचार होता है।</p>"
+        },
+        {
+            "id": "navkar_mantra",
+            "title": "Navkar Mantra",
+            "subtitle": "णमो अरिहंताणं",
+            "symbol": "🧘",
+            "order": 13,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>नवकार मंत्र</h2><p><strong>णमो अरिहंताणं।<br>णमो सिद्धाणं।<br>णमो आयरियाणं।<br>णमो उवज्झायाणं।<br>णमो लोए सव्वसाहूणं॥</strong></p><p>नवकार मंत्र जैन धर्म का सबसे पवित्र मंत्र है।यह सभी आत्माओं के प्रति सम्मान, अहिंसा, शुद्धता और आत्मशुद्धि का प्रतीक है।इसके जप से पाप कर्मों का क्षय और आत्मिक उन्नति होती है।</p>"
+        },
+        {
+            "id": "hanuman_mantra",
+            "title": "Hanuman Mantra",
+            "subtitle": "ॐ नमो भगवते हनुमते नमः",
+            "symbol": "🐒",
+            "order": 14,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>हनुमान मंत्र</h2><p><strong>ॐ नमो भगवते हनुमते नमः</strong></p><p>यह मंत्र भगवान हनुमान को समर्पित है।इसके जप से बल, साहस, निर्भयता और नकारात्मक शक्तियों से रक्षा प्राप्त होती है।</p>"
+        },
+        {
+            "id": "surya_mantra",
+            "title": "Surya Mantra",
+            "subtitle": "ॐ आदित्याय नमः",
+            "symbol": "🌞",
+            "order": 15,
+            "language": "hi",
+            "isFeatured": false,
+            "content": "<h2>सूर्य मंत्र</h2><p><strong>ॐ सूर्याय नमः</strong></p><p>यह मंत्र भगवान सूर्य को समर्पित है। इसके जप से स्वास्थ्य, ऊर्जा, आत्मविश्वास और सकारात्मकता में वृद्धि होती है।</p>"
+        }
+    ]
+}
