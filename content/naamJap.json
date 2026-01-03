@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "items": [
+    { "id": "ram_naam_jap", "title": "राम नाम जप", "subtitle": "श्री राम नाम स्मरण", "symbol": "🏹", "content": "<p>ॐ श्री रामाय नमः</p><br><p>श्री राम जय राम जय जय राम</p>" },
+    { "id": "sita_ram_jap", "title": "सीता–राम नाम जप", "subtitle": "सीता राम नाम", "symbol": "🌿", "content": "<p>सीता राम सीता राम</p><br><p>जय सीता राम</p>" },
+    { "id": "krishna_naam_jap", "title": "कृष्ण नाम जप", "subtitle": "श्री कृष्ण नाम स्मरण", "symbol": "🪈", "content": "<p>ॐ नमो भगवते वासुदेवाय</p><br><p>हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे</p>" },
+    { "id": "radhe_krishna_jap", "title": "राधे–कृष्ण नाम जप", "subtitle": "राधा कृष्ण नाम", "symbol": "💙", "content": "<p>राधे कृष्ण राधे कृष्ण</p><br><p>जय राधे कृष्ण</p>" },
+    { "id": "shiv_naam_jap", "title": "शिव नाम जप", "subtitle": "भगवान शिव नाम", "symbol": "🔱", "content": "<p>ॐ नमः शिवाय</p><br><p>हर हर महादेव</p>" },
+    { "id": "mahamrityunjaya_jap", "title": "महामृत्युंजय जप", "subtitle": "शिव महामंत्र", "symbol": "🕉️", "content": "<p>ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्</p><br><p>उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्</p>" },
+    { "id": "hanuman_naam_jap", "title": "हनुमान नाम जप", "subtitle": "श्री हनुमान नाम", "symbol": "🐒", "content": "<p>ॐ नमो भगवते हनुमते नमः</p><br><p>जय बजरंगबली</p>" },
+    { "id": "ramdoot_jap", "title": "रामदूत जप", "subtitle": "हनुमान जी", "symbol": "🪶", "content": "<p>ॐ हनुमते नमः</p><br><p>श्री रामदूताय नमः</p>" },
+    { "id": "durga_naam_jap", "title": "दुर्गा नाम जप", "subtitle": "माँ दुर्गा नाम", "symbol": "🦁", "content": "<p>ॐ दुं दुर्गायै नमः</p><br><p>जय अम्बे गौरी</p>" },
+    { "id": "chamunda_jap", "title": "चामुण्डा जप", "subtitle": "दुर्गा बीज मंत्र", "symbol": "🔥", "content": "<p>ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे</p>" },
+    { "id": "lakshmi_naam_jap", "title": "लक्ष्मी नाम जप", "subtitle": "महालक्ष्मी नाम", "symbol": "🌸", "content": "<p>ॐ श्रीं महालक्ष्म्यै नमः</p><br><p>ॐ लक्ष्मी नारायणाय नमः</p>" },
+    { "id": "kanakadhara_jap", "title": "कनकधारा स्मरण", "subtitle": "लक्ष्मी कृपा", "symbol": "💰", "content": "<p>ॐ श्रीं ह्रीं क्लीं महालक्ष्म्यै नमः</p>" },
+    { "id": "saraswati_naam_jap", "title": "सरस्वती नाम जप", "subtitle": "विद्या देवी", "symbol": "📚", "content": "<p>ॐ ऐं सरस्वत्यै नमः</p><br><p>ॐ श्री सरस्वत्यै नमः</p>" },
+    { "id": "ganesh_naam_jap", "title": "गणेश नाम जप", "subtitle": "विघ्नहर्ता", "symbol": "🐘", "content": "<p>ॐ गं गणपतये नमः</p><br><p>ॐ श्री गणेशाय नमः</p>" },
+    { "id": "vishnu_naam_jap", "title": "विष्णु नाम जप", "subtitle": "नारायण स्मरण", "symbol": "🕉️", "content": "<p>ॐ नमो नारायणाय</p><br><p>ॐ नमो भगवते नारायणाय</p>" },
+    { "id": "narasimha_jap", "title": "नृसिंह नाम जप", "subtitle": "भय नाशक", "symbol": "🦁", "content": "<p>ॐ नमो भगवते नरसिंहाय</p>" },
+    { "id": "surya_naam_jap", "title": "सूर्य नाम जप", "subtitle": "आदित्य स्मरण", "symbol": "☀️", "content": "<p>ॐ घृणि सूर्याय नमः</p><br><p>ॐ आदित्याय नमः</p>" },
+    { "id": "shani_naam_jap", "title": "शनि नाम जप", "subtitle": "शनि देव", "symbol": "🪐", "content": "<p>ॐ शं शनैश्चराय नमः</p>" },
+    { "id": "navgraha_jap", "title": "नवग्रह नाम जप", "subtitle": "ग्रह शान्ति", "symbol": "✨", "content": "<p>ॐ सूर्याय नमः</p><br><p>ॐ चन्द्राय नमः</p><br><p>ॐ मंगलाय नमः</p><br><p>ॐ बुधाय नमः</p><br><p>ॐ बृहस्पतये नमः</p><br><p>ॐ शुक्राय नमः</p><br><p>ॐ शनैश्चराय नमः</p><br><p>ॐ राहवे नमः</p><br><p>ॐ केतवे नमः</p>" },
+    { "id": "datta_jap", "title": "दत्तात्रेय नाम जप", "subtitle": "गुरु स्मरण", "symbol": "🕊️", "content": "<p>ॐ श्री गुरुदेव दत्त</p>" },
+    { "id": "skanda_jap", "title": "स्कन्द नाम जप", "subtitle": "कार्तिकेय", "symbol": "🛡️", "content": "<p>ॐ सरवनभवाय नमः</p>" },
+    { "id": "kali_naam_jap", "title": "काली नाम जप", "subtitle": "महाकाली", "symbol": "⚔️", "content": "<p>ॐ क्रीं कालिकायै नमः</p>" },
+    { "id": "gayatri_jap", "title": "गायत्री जप", "subtitle": "सविता मंत्र", "symbol": "🌞", "content": "<p>ॐ भूर्भुवः स्वः</p><br><p>तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि</p><br><p>धियो यो नः प्रचोदयात्</p>" }
+  ]
+}
