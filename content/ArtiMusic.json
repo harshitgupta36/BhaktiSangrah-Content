@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "hanuman_aarti",
+      "type": "aarti",
+      "title": "हनुमान आरती",
+      "subtitle": "आरती कीजे हनुमान लला की",
+      "audio_url": "https://archive.org/serve/fptu_aarti-keejei-hanuman-lala-ki/fptu_aarti-keejei-hanuman-lala-ki.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🐒",
+      "color": "#E65C00"
+    },
+    {
+      "id": "ganesh_aarti",
+      "type": "aarti",
+      "title": "गणेश आरती",
+      "subtitle": "जय गणेश जय गणेश देवा",
+      "audio_url": "https://archive.org/serve/GaneshAartiJaiGaneshDeva/GaneshAartiJaiGaneshDeva.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🐘",
+      "color": "#D97706"
+    },
+    {
+      "id": "shiv_aarti",
+      "type": "aarti",
+      "title": "शिव आरती",
+      "subtitle": "ॐ जय शिव ओंकारा",
+      "audio_url": "https://archive.org/serve/ShivAartiOmJaiShivOmkara/ShivAartiOmJaiShivOmkara.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🔱",
+      "color": "#2563EB"
+    },
+    {
+      "id": "vishnu_aarti",
+      "type": "aarti",
+      "title": "विष्णु आरती",
+      "subtitle": "ॐ जय जगदीश हरे",
+      "audio_url": "https://archive.org/serve/OmJaiJagdishHareAarti/OmJaiJagdishHareAarti.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🕉️",
+      "color": "#059669"
+    },
+    {
+      "id": "lakshmi_aarti",
+      "type": "aarti",
+      "title": "लक्ष्मी आरती",
+      "subtitle": "ॐ जय लक्ष्मी माता",
+      "audio_url": "https://archive.org/serve/LakshmiAartiOmJaiLakshmiMata/LakshmiAartiOmJaiLakshmiMata.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🌸",
+      "color": "#EC4899"
+    },
+    {
+      "id": "durga_aarti",
+      "type": "aarti",
+      "title": "दुर्गा आरती",
+      "subtitle": "अम्बे तू है जगदम्बे काली",
+      "audio_url": "https://archive.org/serve/DurgaAartiAmbeTuHaiJagdambeKali/DurgaAartiAmbeTuHaiJagdambeKali.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🔥",
+      "color": "#DC2626"
+    },
+    {
+      "id": "saraswati_aarti",
+      "type": "aarti",
+      "title": "सरस्वती आरती",
+      "subtitle": "जय सरस्वती माता",
+      "audio_url": "https://archive.org/serve/SaraswatiAartiJaiSaraswatiMata/SaraswatiAartiJaiSaraswatiMata.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "📚",
+      "color": "#7C3AED"
+    },
+    {
+      "id": "ram_aarti",
+      "type": "aarti",
+      "title": "राम आरती",
+      "subtitle": "श्री रामचंद्र कृपालु",
+      "audio_url": "https://archive.org/serve/RamAartiShriRamChandraKripalu/RamAartiShriRamChandraKripalu.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🏹",
+      "color": "#F97316"
+    },
+    {
+      "id": "krishna_aarti",
+      "type": "aarti",
+      "title": "कृष्ण आरती",
+      "subtitle": "आरती कुंज बिहारी की",
+      "audio_url": "https://archive.org/serve/KrishnaAartiKunjBihariKi/KrishnaAartiKunjBihariKi.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🦚",
+      "color": "#22C55E"
+    },
+    {
+      "id": "sai_aarti",
+      "type": "aarti",
+      "title": "साईं बाबा आरती",
+      "subtitle": "आरती श्री साईं गुरुवर की",
+      "audio_url": "https://archive.org/serve/SaiBabaAartiShriSaiGuruvarKi/SaiBabaAartiShriSaiGuruvarKi.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🕯️",
+      "color": "#64748B"
+    }
+  ]
+}
