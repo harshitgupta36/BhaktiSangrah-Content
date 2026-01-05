@@ -9,7 +9,8 @@
       "audio_url": "hanuman_aarti.mp3",
       "license": "CC0 1.0 Universal",
       "icon": "🐒",
-      "color": "#E65C00"
+      "color": "#E65C00",
+      "image_url": "HanumanJi.png"
     },
     {
       "id": "ganesh_aarti",
