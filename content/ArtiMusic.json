@@ -11,6 +11,17 @@
       "icon": "🐒",
       "color": "#E65C00",
       "image_url": "HanumanJi.png"
+    },
+    {
+      "id": "hanuman_aarti2",
+      "type": "aarti",
+      "title": "हनुमान आरती",
+      "subtitle": "आरती कीजे हनुमान लला की",
+      "audio_url": "hanuman_aarti.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🐒",
+      "color": "#E65C00",
+      "image_url": "HanumanJi.png"
     }
   ]
 }
