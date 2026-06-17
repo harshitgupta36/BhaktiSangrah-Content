@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "items": [
     {
       "id": "hanuman_aarti",
@@ -22,6 +22,17 @@
       "icon": "🚩",
       "color": "#D84315",
       "image_url": "ShriRam.png"
+    },
+    {
+      "id": "janam_janam_ki_khoj_bataye",
+      "type": "bhajan",
+      "title": "जनम जनम की खोज बताए",
+      "subtitle": "मनवा राम नाम गुण गाए",
+      "audio_url": "janam_janam_ki_khoj_bataye.mp3",
+      "license": "Amarjeevan Tiwari",
+      "icon": "🎵",
+      "color": "#8E24AA",
+      "image_url": "janam_janam_ki_khoj_bataye.png"
     }
   ]
 }
