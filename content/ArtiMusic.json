@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "items": [
     {
       "id": "hanuman_aarti",
@@ -10,6 +10,7 @@
       "license": "CC0 1.0 Universal",
       "icon": "🐒",
       "color": "#E65C00",
+      "credit":"Hariharan",
       "image_url": "HanumanJi.png"
     },
     {
@@ -21,6 +22,7 @@
       "license": "Divyansh Shrivastava",
       "icon": "🚩",
       "color": "#D84315",
+      "credit" : "Divyansh Shrivastava",
       "image_url": "ShriRam.png"
     },
     {
@@ -32,7 +34,8 @@
       "license": "Amarjeevan Tiwari",
       "icon": "🎵",
       "color": "#8E24AA",
-      "image_url": "janam_janam_ki_khoj_bataye.png"
+      "image_url": "janam_janam_ki_khoj_bataye.png",
+      "credit" : "Amarjeevan Tiwari"
     }
   ]
 }
