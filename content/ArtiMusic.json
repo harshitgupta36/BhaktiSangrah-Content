@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "items": [
     {
       "id": "hanuman_aarti",
@@ -102,6 +102,17 @@
       "icon": "🪈",
       "color": "#59B38C",
       "credit": "Wikimedia Commons (public domain)"
+    },
+    {
+      "id": "puja_ghanta",
+      "type": "instrumental",
+      "title": "पूजा घंटा",
+      "subtitle": "मंदिर के घंटे की मंगल ध्वनि",
+      "audio_url": "puja_ghanta.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🔔",
+      "color": "#E0B75A",
+      "credit": "the_very_Real_Horst (Wikimedia Commons)"
     }
   ]
 }
