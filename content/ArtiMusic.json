@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "items": [
     {
       "id": "hanuman_aarti",
@@ -10,7 +10,7 @@
       "license": "CC0 1.0 Universal",
       "icon": "🐒",
       "color": "#E65C00",
-      "credit":"Hariharan",
+      "credit": "Hariharan",
       "image_url": "HanumanJi.png"
     },
     {
@@ -22,7 +22,7 @@
       "license": "Divyansh Shrivastava",
       "icon": "🚩",
       "color": "#D84315",
-      "credit" : "Divyansh Shrivastava",
+      "credit": "Divyansh Shrivastava",
       "image_url": "ShriRam.png"
     },
     {
@@ -35,7 +35,73 @@
       "icon": "🎵",
       "color": "#8E24AA",
       "image_url": "janam_janam_ki_khoj_bataye.png",
-      "credit" : "Amarjeevan Tiwari"
+      "credit": "Amarjeevan Tiwari"
+    },
+    {
+      "id": "gayatri_mantra",
+      "type": "mantra",
+      "title": "गायत्री मंत्र",
+      "subtitle": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं",
+      "audio_url": "gayatri_mantra.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🕉️",
+      "color": "#E0B75A",
+      "credit": "Wilfredor (Wikimedia Commons)"
+    },
+    {
+      "id": "ganpati_vandana",
+      "type": "aarti",
+      "title": "गणपति वंदना",
+      "subtitle": "गणपति आरती व वंदना",
+      "audio_url": "ganpati_vandana.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🐘",
+      "color": "#E68C40",
+      "credit": "Shri Hari Om Sharan Ji (Wikimedia Commons)"
+    },
+    {
+      "id": "lakshmi_aarti",
+      "type": "aarti",
+      "title": "लक्ष्मी आरती",
+      "subtitle": "ॐ जय लक्ष्मी माता",
+      "audio_url": "lakshmi_aarti.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🪷",
+      "color": "#E0B75A",
+      "credit": "Shri Hari Om Sharan Ji (Wikimedia Commons)"
+    },
+    {
+      "id": "santoshi_mata_aarti",
+      "type": "aarti",
+      "title": "संतोषी माता आरती",
+      "subtitle": "जय संतोषी माता",
+      "audio_url": "santoshi_mata_aarti.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🙏",
+      "color": "#CC5950",
+      "credit": "Shri Hari Om Sharan Ji (Wikimedia Commons)"
+    },
+    {
+      "id": "sanskrit_aarti_chant",
+      "type": "aarti",
+      "title": "संस्कृत आरती पाठ",
+      "subtitle": "श्री राधा गोविंद देव जी, जयपुर",
+      "audio_url": "sanskrit_aarti_chant.mp3",
+      "license": "CC0 1.0 Universal",
+      "icon": "🔔",
+      "color": "#B366A6",
+      "credit": "Aarti Shri Radha Govind Dev Ji, Jaipur (Wikimedia Commons)"
+    },
+    {
+      "id": "bansuri_dhun",
+      "type": "instrumental",
+      "title": "बाँसुरी धुन",
+      "subtitle": "शांत बाँसुरी वादन",
+      "audio_url": "bansuri_dhun.mp3",
+      "license": "Public Domain",
+      "icon": "🪈",
+      "color": "#59B38C",
+      "credit": "Wikimedia Commons (public domain)"
     }
   ]
 }
