@@ -1,0 +1,333 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "id": "hanuman",
+   "title": "हनुमान",
+   "query": "hanuman"
+  },
+  {
+   "id": "shiv",
+   "title": "शिव",
+   "query": "lord shiva"
+  },
+  {
+   "id": "ganesh",
+   "title": "गणेश",
+   "query": "ganesha"
+  },
+  {
+   "id": "krishna",
+   "title": "कृष्ण",
+   "query": "radha krishna"
+  },
+  {
+   "id": "durga",
+   "title": "दुर्गा",
+   "query": "durga"
+  },
+  {
+   "id": "lakshmi",
+   "title": "लक्ष्मी",
+   "query": "lakshmi"
+  },
+  {
+   "id": "ram",
+   "title": "राम",
+   "query": "lord rama"
+  },
+  {
+   "id": "diya",
+   "title": "दीया",
+   "query": "diya lamp"
+  },
+  {
+   "id": "temple",
+   "title": "मंदिर",
+   "query": "hindu temple"
+  },
+  {
+   "id": "lotus",
+   "title": "कमल",
+   "query": "lotus flower"
+  },
+  {
+   "id": "aarti",
+   "title": "आरती",
+   "query": "aarti"
+  },
+  {
+   "id": "om",
+   "title": "ॐ",
+   "query": "om symbol"
+  }
+ ],
+ "items": [
+  {
+   "id": "1qvWMJv_NUU",
+   "category": "hanuman",
+   "imagePath": "photo-1730191567375-e82ce67160df",
+   "photographer": "Vinit Patel",
+   "username": "kalakriti_productions"
+  },
+  {
+   "id": "Z7SvTN-Q_K8",
+   "category": "hanuman",
+   "imagePath": "photo-1707833684948-11bd776ffdef",
+   "photographer": "Yogi Ravi Teja Yedla",
+   "username": "_yogi7_"
+  },
+  {
+   "id": "QdMV6KeTjyc",
+   "category": "hanuman",
+   "imagePath": "photo-1564984069790-2d0767de5856",
+   "photographer": "Deepak Kosta",
+   "username": "dkosta4"
+  },
+  {
+   "id": "aW6rNqhQzi4",
+   "category": "shiv",
+   "imagePath": "photo-1642774667024-e9e2f37914d2",
+   "photographer": "Baatcheet Films",
+   "username": "baatcheet_films"
+  },
+  {
+   "id": "6PP8DrhY0aA",
+   "category": "shiv",
+   "imagePath": "photo-1566890910598-c5768889e83e",
+   "photographer": "satish nagapuri",
+   "username": "satishnagapuri"
+  },
+  {
+   "id": "uLQw19QnC9s",
+   "category": "shiv",
+   "imagePath": "photo-1748944088887-dbcac01ac2eb",
+   "photographer": "Krishna Pandey",
+   "username": "kp007"
+  },
+  {
+   "id": "JxJ15qeVisk",
+   "category": "shiv",
+   "imagePath": "photo-1668344500552-0bc310ed3a96",
+   "photographer": "Vishal Nirmalkar",
+   "username": "vibgyor"
+  },
+  {
+   "id": "BjEKmyBGl8g",
+   "category": "ganesh",
+   "imagePath": "photo-1567591414240-e9c1e59f3e06",
+   "photographer": "Mohnish Landge",
+   "username": "mohnishlandge"
+  },
+  {
+   "id": "fv3EpXA6jCA",
+   "category": "ganesh",
+   "imagePath": "photo-1567591370504-80142b28f1c1",
+   "photographer": "Mohnish Landge",
+   "username": "mohnishlandge"
+  },
+  {
+   "id": "fNAsME3HEZI",
+   "category": "ganesh",
+   "imagePath": "photo-1598195596234-e04b82ef8adf",
+   "photographer": "Mohnish Landge",
+   "username": "mohnishlandge"
+  },
+  {
+   "id": "2dPveg0pegI",
+   "category": "ganesh",
+   "imagePath": "photo-1695454432457-903f1dbb3684",
+   "photographer": "Akshay Bhanushali",
+   "username": "akshay09"
+  },
+  {
+   "id": "bxYwhPIFOcA",
+   "category": "krishna",
+   "imagePath": "photo-1722404353053-7c99652ec9f0",
+   "photographer": "krivi",
+   "username": "krivi"
+  },
+  {
+   "id": "p-crIzPcfLg",
+   "category": "krishna",
+   "imagePath": "photo-1641913625440-158406784a9f",
+   "photographer": "Sanjana Mv",
+   "username": "mv_sanjana"
+  },
+  {
+   "id": "F6Xn1Fwb0XU",
+   "category": "krishna",
+   "imagePath": "photo-1660280037297-a3b5e79a3d20",
+   "photographer": "Aditya Lonkar",
+   "username": "thelonkar"
+  },
+  {
+   "id": "840byMr59l4",
+   "category": "durga",
+   "imagePath": "photo-1603646315359-5f27fee071b8",
+   "photographer": "Unfold Memory",
+   "username": "unfold_memory"
+  },
+  {
+   "id": "vruHKfa-Fi0",
+   "category": "durga",
+   "imagePath": "photo-1759463191632-90844233c9ea",
+   "photographer": "Vishal",
+   "username": "shutter_priority"
+  },
+  {
+   "id": "NfZJV91Nwl4",
+   "category": "durga",
+   "imagePath": "photo-1697632060080-8803b057e012",
+   "photographer": "Anil Sharma",
+   "username": "anil_sharma_india"
+  },
+  {
+   "id": "IzOKY8YqiAA",
+   "category": "lakshmi",
+   "imagePath": "photo-1590228948882-cf73e8efe843",
+   "photographer": "Vivek Sharma",
+   "username": "vivek761"
+  },
+  {
+   "id": "MLTEUgMj7XY",
+   "category": "ram",
+   "imagePath": "photo-1706169599121-4182eb12fbef",
+   "photographer": "Saurabh Solanki",
+   "username": "saurabh5986"
+  },
+  {
+   "id": "e2AT5lwKAoc",
+   "category": "ram",
+   "imagePath": "photo-1719980721425-e9f992aaf295",
+   "photographer": "Sonika Agarwal",
+   "username": "sonika_agarwal"
+  },
+  {
+   "id": "cEXmrabSBf8",
+   "category": "ram",
+   "imagePath": "photo-1759592367875-4cd79590dbb1",
+   "photographer": "Sonika Agarwal",
+   "username": "sonika_agarwal"
+  },
+  {
+   "id": "H4ilfu3vftk",
+   "category": "diya",
+   "imagePath": "photo-1605292356183-a77d0a9c9d1d",
+   "photographer": "Umesh Soni",
+   "username": "umeshsonii"
+  },
+  {
+   "id": "-32lKp1bi9k",
+   "category": "diya",
+   "imagePath": "photo-1605378229010-11aedbb01b24",
+   "photographer": "Ashwini Chaudhary(Monty)",
+   "username": "suicide_chewbacca"
+  },
+  {
+   "id": "w8LWb34UPmY",
+   "category": "diya",
+   "imagePath": "photo-1575989762363-c7ce0137427a",
+   "photographer": "Manoj kumar kasirajan",
+   "username": "manoj25"
+  },
+  {
+   "id": "bfG864ZO05w",
+   "category": "diya",
+   "imagePath": "photo-1636226942649-ee15d2a7ce04",
+   "photographer": "Suchandra Roy Chowdhury",
+   "username": "artsy_lens21"
+  },
+  {
+   "id": "HNXXf0fpdjw",
+   "category": "diya",
+   "imagePath": "photo-1636415393136-c4ae36bd3b15",
+   "photographer": "Maulik Sutariya",
+   "username": "truemaulik"
+  },
+  {
+   "id": "6XZaixAjdOE",
+   "category": "temple",
+   "imagePath": "photo-1566300141301-ab0577dcba1c",
+   "photographer": "Nandhu Kumar",
+   "username": "nandhukumarndd"
+  },
+  {
+   "id": "6a5CjP-nXwE",
+   "category": "temple",
+   "imagePath": "photo-1764078680068-8fe71f14be7a",
+   "photographer": "Sushanta Rokka",
+   "username": "sanoyatra"
+  },
+  {
+   "id": "i8mUBncmaZ0",
+   "category": "temple",
+   "imagePath": "photo-1719948689557-728788964865",
+   "photographer": "Priyanshu Singh",
+   "username": "thepriyanshu"
+  },
+  {
+   "id": "B1cJcYPoFxY",
+   "category": "lotus",
+   "imagePath": "photo-1616435577207-ca90abc6b732",
+   "photographer": "AARN GIRI",
+   "username": "aarngiri"
+  },
+  {
+   "id": "p7WQxx8-xgM",
+   "category": "lotus",
+   "imagePath": "photo-1534162802244-d6f69e9048da",
+   "photographer": "Alfred Schrock",
+   "username": "puregeorgia"
+  },
+  {
+   "id": "Hqa-Ymae0k0",
+   "category": "lotus",
+   "imagePath": "photo-1593047833652-2ae65f74b22f",
+   "photographer": "Nong",
+   "username": "californong"
+  },
+  {
+   "id": "BgzTKercK_A",
+   "category": "lotus",
+   "imagePath": "photo-1534169256946-e453674146c3",
+   "photographer": "Clarence E. Hsu",
+   "username": "clarenceehsu"
+  },
+  {
+   "id": "cxY38XRlX1k",
+   "category": "aarti",
+   "imagePath": "photo-1665413793441-13aedeb062d3",
+   "photographer": "Sneha Sivarajan",
+   "username": "sneha_sivarajan"
+  },
+  {
+   "id": "j0GTVitN2lk",
+   "category": "aarti",
+   "imagePath": "photo-1721401523806-26b1a534640a",
+   "photographer": "Rohan Sah",
+   "username": "sahroh"
+  },
+  {
+   "id": "w3ywkaZeNu0",
+   "category": "aarti",
+   "imagePath": "photo-1728060428724-bdfef111199f",
+   "photographer": "Mustafa Fatemi",
+   "username": "solaticace"
+  },
+  {
+   "id": "Sd_LigBt_wo",
+   "category": "om",
+   "imagePath": "photo-1642499715129-0a1bcd0963ee",
+   "photographer": "Rohan Reddy",
+   "username": "rofotoqoto"
+  },
+  {
+   "id": "0Ux2qCVe9nY",
+   "category": "om",
+   "imagePath": "photo-1781325118323-c820049e3f53",
+   "photographer": "Shyamli Kashyap",
+   "username": "macrosam"
+  }
+ ]
+}
